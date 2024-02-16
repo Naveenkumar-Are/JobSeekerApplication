@@ -23,6 +23,7 @@ The Job Seeker Management System is a Java Spring Boot application designed to m
 - Spring Data JPA
 - Hibernate
 - H2 Database (in-memory database for development purposes)
+- MySQL
 - Maven
 
 ## Getting Started
